@@ -36,6 +36,7 @@ public class SMain {
 		
 		cal.add(1, 1, 1);
 		
+//		Calc.add(1, 2); : 컴 권장(2개짜리)
 		cal.add(1, 2);
 		
 		// cal add() static 왜 붙히까? => 객체를 안 만들고 쓰려구요
