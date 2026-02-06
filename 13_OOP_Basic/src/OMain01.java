@@ -16,7 +16,7 @@ public class OMain01 {
 		
 		Cat cat1 = new Cat();
 		System.out.println(cat1);
-		
+		// cat1 참조변수라고 함.
 		
 		cat1.name = "임망고";
 		cat1.age = 6;
